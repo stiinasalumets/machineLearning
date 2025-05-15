@@ -15,3 +15,8 @@ We are planning to use “Hugging Face Transformers” or “PyTorch Image Model
 ___
 ## #TODO
 * [x] Create a git repository
+* [ ] Download Dataset from Kaggle
+* [ ] Train the Model (Using CNN in TensorFlow)
+* [ ] Build an API to Serve the Model (Using Flask)
+* [ ] Frontend (HTML and JS or Streamlit)
+* [ ] Deploy the Backend API to AWS EC2
